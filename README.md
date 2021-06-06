@@ -104,6 +104,7 @@ Client directory contains all the shared components, routes, modules.
 #### components
 This folder contains all the common components which are used throughout the project.
 
+
 #### index.js
 Index.js simply does client side rendering using the data provided from `window.__INITIAL_STATE__`.
 
